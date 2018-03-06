@@ -1,0 +1,11 @@
+Dataset creation is the jupyter notebook containing the data preprocessing scripts. 
+
+
+Laptop and Rest contain pickles and preprocesses data in csv format.  
+
+
+Embeddings contain glove embeddings and domain specific trained embeddings. 
+
+
+Later15 and Semeval are the original data sources. 
+
