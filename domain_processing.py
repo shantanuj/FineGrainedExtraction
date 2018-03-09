@@ -246,6 +246,10 @@ class Domain:
         
     def features(self):
         None
+        
+    def save_as_pickle(self,path):
+        with open(path, 'wb') as output:
+            pickle.dump(self, output, pickle.HIGHEST_PROTOCOL) 
     
     
 d2 = Domain('Rest','./Final_data/Domains/Rest/','./Final_data/Domains/Rest/','./Final_data/Semeval_14_ver1/Combined_restaurant.csv',True)
