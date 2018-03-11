@@ -1,0 +1,4 @@
+Use:
+For glove:
+    Use python -m gensim.scripts.glove2word2vec -i <GloVe vector file> -o <Word2vec vector file>
+    as per https://radimrehurek.com/gensim/scripts/glove2word2vec.html

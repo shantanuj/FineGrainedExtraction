@@ -1,8 +1,8 @@
 1) Problem description and breakdown into domain adaption and absa
 2) PART 1: Domain adaption-> Overview of current approaches, two views on structural learning and common feature learning. 
 3) PART 1: Baseline model used- BILSTM CRF-> Explanation of how they work, and brief implementation details. 
-4) PART 1: Use of embeddings and relevance in deep learning approaches. Introducition to sense. 
-5) PART 1: Differnetial embeddings.
+4) PART 1: Use of embeddings and relevance in deep learning approaches. Introducition to sense and word2vec details. 
+5) PART 1: Differnetial embeddings.-> Visualization of embeddings. 
 6) Tabulation of results, need for similar structure in embeddings.  
 6) PART 1: Detection of Domain linkers, independent and dependent words. Need for word contribution; brief overview of bipartite graph and spectral graph application. 
 
